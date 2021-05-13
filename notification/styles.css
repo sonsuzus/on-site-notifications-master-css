@@ -152,6 +152,7 @@
 	font-weight: bold;
 	padding: 3px 4px;
 	vertical-align: top;
+	
 }
 .ntfy-read, .ntfy-event-nill {
 	background: #EEE;
@@ -180,6 +181,7 @@
 	/* disable snow flat's global border-box */
 	box-sizing: content-box !important;
 }
+/* donut theme */
+
 
 /* smartphones */
-
